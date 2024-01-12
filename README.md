@@ -1,7 +1,3 @@
-# demo 2
+# Anime demo website
 
-creating from the local editor
-
-## local
-
-1. open browser
+just created for implementing the things i learned
