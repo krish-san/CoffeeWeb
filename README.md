@@ -1,3 +1,3 @@
-# Anime demo website
+# demo website
 
-just created for implementing the things i learned
+just created for implementing the things I learned
